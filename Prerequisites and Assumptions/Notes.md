@@ -26,3 +26,6 @@ Notes:
 mkvirtualenv --python=python3.6 superlists
 #### on Windows
 virtualenv --python=`py -3.6 -c"import sys; print(sys.executable)"` superlists
+
+## 3. Activating and Deactivating the Virtualenv
+![image](https://github.com/xyeryay/Learning-Notes-of-TDD-with-Python/blob/main/images/activate-deactivate-virtualenv.png)
