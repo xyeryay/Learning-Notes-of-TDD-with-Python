@@ -5,6 +5,7 @@ Python 3 is better.
 #### 2.	The Firefox web browser
 #### 3.	The Git version control system
 On Windows, this comes with the Bash command line, which is needed for the book.
+The following commands will be executed on "Git Bash".
 #### 4.	The virtualenv with Python 3, Django 1.11, and Selenium 3 in it
 #### 5.	Geckodriver
 This is the driver that will let us remotely control Firefox via Selenium.
@@ -29,3 +30,6 @@ virtualenv --python=`py -3.6 -c"import sys; print(sys.executable)"` superlists
 
 ## 3. Activating and Deactivating the Virtualenv
 ![image](https://github.com/xyeryay/Learning-Notes-of-TDD-with-Python/blob/main/images/activate-deactivate-virtualenv.png)
+
+## 4. Install Django and Selenium 
+![image](https://github.com/xyeryay/Learning-Notes-of-TDD-with-Python/blob/main/images/install-django-selenium.png)
