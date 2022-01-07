@@ -30,3 +30,14 @@ $ python functional_tests.py</br>
 
 A new terminal window is opened without AssertionError.</br>
 ![image](https://github.com/xyeryay/Learning-Notes-of-TDD-with-Python/blob/main/images/first-django-powered-page.PNG)
+
+### 4. Using Git as our VCS
+(1). Move functional_tests.py into the superlists folder</br>
+(2). Do the **git init** to start the repository. The top-level superlists folder will be our working directory</br>
+(3). Take a look and see what files we want to commit</br>
+(4). Add some files to a special file called .gitignore which tells Git what to ignore</br>
+(5). Add the rest of the contents of the current folder</br>
+(6). Remove .pyc files from Git and add them to .gitignore too</br>
+(7). Do our first commit</br>
+(8). When you type git commit, it will pop up an editor window for you t  write your commit message in</br>
+![image](https://github.com/xyeryay/Learning-Notes-of-TDD-with-Python/blob/main/images/start-a-git-repo.png)
